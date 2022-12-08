@@ -1,0 +1,13 @@
+.container{
+    margin: auto 25%;
+}
+textarea{
+    padding: 15px;
+    display: block;
+    outline: none;
+    resize: none;
+    width: 800px;
+}
+#translate{
+    margin: 20px auto;
+}
